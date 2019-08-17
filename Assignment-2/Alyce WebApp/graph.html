@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript">
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "http://public.tableau.com/views/AlyceCAC/AlyceCAC",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+</head>
+
+<body onload="initViz();">
+    <h1 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;">Customer Analysis Dashboard</h1>
+    <div id="vizContainer" style="width:10000px; height:700px;margin-left: 225px;"></div>
+</body>
+
+</html>

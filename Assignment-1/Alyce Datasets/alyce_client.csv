@@ -1,0 +1,421 @@
+111	3M Company	Industrials	WILMINGTON	DE	19803
+112	A.O. Smith Corp	Industrials	SAN JUAN	PR	902
+113	Abbott Laboratories	Health Care	CLEVELAND	TN	37320
+114	AbbVie Inc.	Health Care	CHICAGO	IL	60610
+115	Accenture plc	Information Technology	PORTLAND	OR	97201
+116	Activision Blizzard	Information Technology	PORTLAND	OR	97216
+117	Acuity Brands Inc	Industrials	HOPKINS	MN	55305
+118	Adobe Systems Inc	Information Technology	WASHINGTON	DC	20008
+119	Advance Auto Parts	Consumer Discretionary	CONROE	TX	77384
+120	Advanced Micro Devices Inc	Information Technology	CAMBRIDGE	MA	2138
+121	Aetna Inc	Health Care	PROVIDENCE	RI	2912
+122	Affiliated Managers Group Inc	Financials	PROVIDENCE	RI	2912
+123	AFLAC Inc	Financials	PITTSBURGH	PA	15213
+124	Agilent Technologies Inc	Health Care	PITTSBURGH	PA	15213
+125	Akamai Technologies Inc	Information Technology	CLEVELAND	OH	44106
+126	Alaska Air Group Inc	Industrials	CLEVELAND	OH	44106
+127	Alexandria Real Estate Equities Inc	Real Estate	CLEVELAND	OH	44106
+128	Alexion Pharmaceuticals	Health Care	CLEVELAND	OH	44106
+129	Align Technology	Health Care	CLEVELAND	OH	44106
+130	Allegion	Industrials	CLEVELAND	OH	44106
+131	"Allergan, Plc"	Health Care	CLEVELAND	OH	44106
+132	Alliance Data Systems	Information Technology	CLEVELAND	OH	44106
+133	Allstate Corp	Financials	WASHINGTON	DC	20064
+134	Alphabet Inc Class A	Information Technology	RICHMOND	IN	47374
+135	Alphabet Inc Class C	Information Technology	JOHNSON CITY	TN	37614
+136	Altria Group Inc	Consumer Staples	DUE WEST	SC	29639
+137	Amazon.com Inc.	Consumer Discretionary	WASHINGTON	DC	20052
+138	American Airlines Group	Industrials	WASHINGTON	DC	20052
+139	American Express Co	Financials	CAMBRIDGE	MA	2138
+140	"American International Group, Inc."	Financials	CAMBRIDGE	MA	2138
+141	American Tower Corp A	Real Estate	CAMBRIDGE	MA	2138
+142	Ameriprise Financial	Financials	CAMBRIDGE	MA	2138
+143	AmerisourceBergen Corp	Health Care	BOSTON	MA	2115
+144	AMETEK Inc.	Industrials	CAMBRIDGE	MA	2138
+145	Amgen Inc.	Health Care	BALTIMORE	MD	21202
+146	Amphenol Corp	Information Technology	BALTIMORE	MD	21205
+147	"Analog Devices, Inc."	Information Technology	BALTIMORE	MD	21205
+148	ANSYS	Information Technology	LOS ANGELES	CA	90015
+149	Anthem Inc.	Health Care	ROCHESTER	MN	55901
+150	Aon plc	Financials	BETHLEHEM	PA	18018
+151	Apartment Investment & Management	Real Estate	ATHENS	OH	45701
+152	Apple Inc.	Information Technology	STANFORD	CA	94305
+153	Applied Materials Inc.	Information Technology	SAINT PETERSBURG	FL	33707
+154	Aptiv Plc	Consumer Discretionary	NORTH GRAFTON	MA	1536
+155	Archer-Daniels-Midland Co	Consumer Staples	LOS ANGELES	CA	90095
+156	Arconic Inc.	Industrials	LOS ANGELES	CA	90095
+157	Arthur J. Gallagher & Co.	Financials	CHICAGO	IL	60637
+158	Assurant Inc.	Financials	CINCINNATI	OH	45267
+159	AT&T Inc.	Telecommunication Services	HARTFORD	CT	6105
+160	Autodesk Inc.	Information Technology	DETROIT	MI	48226
+161	Automatic Data Processing	Information Technology	ANN ARBOR	MI	48109
+162	AutoZone Inc	Consumer Discretionary	VILLANOVA	PA	19085
+163	"AvalonBay Communities, Inc."	Real Estate	WINSTON-SALEM	NC	27109
+164	Bank of America Corp	Financials	DETROIT	MI	48202
+165	Baxter International Inc.	Health Care	CADILLAC	MI	49601
+166	BB&T Corporation	Financials	CLINTON TOWNSHIP	MI	48035
+167	Becton Dickinson	Health Care	MUSKEGON	MI	49442
+168	Berkshire Hathaway	Financials	OWOSSO	MI	48867
+169	Best Buy Co. Inc.	Consumer Discretionary	PORT HURON	MI	48060
+170	Biogen Inc.	Health Care	AUBURN HILLS	MI	48326
+171	BlackRock	Financials	CAMBRIDGE	MA	2138
+172	Block H&R	Financials	CAMBRIDGE	MA	2138
+173	Boeing Company	Industrials	CAMBRIDGE	MA	2138
+174	Booking Holdings Inc	Consumer Discretionary	BOSTON	MA	2115
+175	BorgWarner	Consumer Discretionary	BALTIMORE	MD	21218
+176	Boston Properties	Real Estate	WASHINGTON	DC	20036
+177	Boston Scientific	Health Care	COLUMBIA	MD	21046
+178	Brighthouse Financial Inc	Financials	BALTIMORE	MD	21205
+179	Bristol-Myers Squibb	Health Care	JACKSON	MS	39201
+180	Broadcom	Information Technology	COSTA MESA	CA	92626
+181	Brown-Forman Corp.	Consumer Staples	PATCHOGUE	NY	11772
+182	C. H. Robinson Worldwide	Industrials	ANN ARBOR	MI	48109
+183	"CA, Inc."	Information Technology	BOSTON	MA	2163
+184	Cadence Design Systems	Information Technology	BOSTON	MA	2115
+185	Campbell Soup	Consumer Staples	CHICAGO	IL	60637
+186	Capital One Financial	Financials	WINSTON-SALEM	NC	27109
+187	Cardinal Health Inc.	Health Care	WINSTON-SALEM	NC	27109
+188	Carmax Inc	Consumer Discretionary	PITTSBURGH	PA	15261
+189	Carnival Corp.	Consumer Discretionary	WASHINGTON	DC	20007
+190	Caterpillar Inc.	Industrials	BOSTON	MA	2111
+191	Cboe Global Markets	Financials	BOSTON	MA	2111
+192	CBRE Group	Real Estate	NORTHAMPTON	MA	1063
+193	CBS Corp.	Consumer Discretionary	WINSTON-SALEM	NC	27157
+194	Celgene Corp.	Health Care	WEST HARTFORD	CT	6117
+195	Centene Corporation	Health Care	CORAL GABLES	FL	33124
+196	CenturyLink Inc	Telecommunication Services	MIAMI	FL	33136
+197	Cerner	Health Care	SAYRE	OK	73662
+198	Charles Schwab Corporation	Financials	OLD WESTBURY	NY	11568
+199	Charter Communications	Consumer Discretionary	CULVER CITY	CA	90230
+200	Chipotle Mexican Grill	Consumer Discretionary	SEATTLE	WA	98121
+201	Chubb Limited	Financials	SANTA BARBARA	CA	93101
+202	Church & Dwight	Consumer Staples	KEENE	NH	3431
+203	CIGNA Corp.	Health Care	LOWELL	MA	1852
+204	Cincinnati Financial	Financials	ROCHESTER	MN	55905
+205	Cintas Corporation	Industrials	TAMPA	FL	33612
+206	Cisco Systems	Information Technology	DETROIT	MI	48201
+207	Citigroup Inc.	Financials	SARASOTA	FL	34243
+208	Citizens Financial Group	Financials	DAVIE	FL	33314
+209	Citrix Systems	Information Technology	LEXINGTON	KY	40536
+210	CME Group Inc.	Financials	LEXINGTON	KY	40536
+211	Coca-Cola Company (The)	Consumer Staples	WEST PALM BEACH	FL	33409
+212	Cognizant Technology Solutions	Information Technology	ALTON	IL	62002
+213	Colgate-Palmolive	Consumer Staples	HOMESTEAD	FL	33030
+214	Comcast Corp.	Consumer Discretionary	PORTLAND	OR	97210
+215	Comerica Inc.	Financials	MIAMI	FL	33172
+216	Conagra Brands	Consumer Staples	ALBUQUERQUE	NM	87110
+217	Constellation Brands	Consumer Staples	COLORADO SPRINGS	CO	80920
+218	Corning Inc.	Information Technology	INDEPENDENCE	MO	64057
+219	Costco Wholesale Corp.	Consumer Staples	ROSEVILLE	MN	55113
+220	"Coty, Inc"	Consumer Staples	SIOUX FALLS	SD	57108
+221	Crown Castle International Corp.	Real Estate	CHARLOTTE	NC	28208
+222	CSRA Inc.	Information Technology	GREENSBORO	NC	27409
+223	CSX Corp.	Industrials	NEWPORT NEWS	VA	23606
+224	Cummins Inc.	Industrials	COLLEGE PARK	MD	20832
+225	CVS Health	Consumer Staples	ADLEPHI	MD	31207
+226	D. R. Horton	Consumer Discretionary	HARRISBURG	PA	17106
+227	Danaher Corp.	Health Care	TAMPA	FL	33619
+228	Darden Restaurants	Consumer Discretionary	INDIANAPOLIS	IN	46256
+229	DaVita Inc.	Health Care	PHILADELPHIA	PA	19104
+230	Deere & Co.	Industrials	FT. WORTH	TX	76112
+231	Delta Air Lines Inc.	Industrials	CLEVELAND	OH	44106
+232	Dentsply Sirona	Health Care	CLEVELAND	OH	44106
+233	Digital Realty Trust Inc	Real Estate	SANDUSKY	OH	44870
+234	Discover Financial Services	Financials	JACKSON	OH	45640
+235	Discovery Inc. Class A	Consumer Discretionary	LANCASTER	OH	43130
+236	Discovery Inc. Class C	Consumer Discretionary	MEADVILLE	PA	16335
+237	Dish Network	Consumer Discretionary	KANSAS CITY	MO	64117
+238	Dollar General	Consumer Discretionary	JOPLIN	MO	64801
+239	Dollar Tree	Consumer Discretionary	SPRINGFIELD	MO	65807
+240	Dover Corp.	Industrials	PHOENIX	AZ	85034
+241	Dr Pepper Snapple Group	Consumer Staples	MOUNT BRADDOCK	PA	15456
+242	Duke Realty Corp	Real Estate	FLORENCE	KY	41042
+243	DXC Technology	Information Technology	HOUSTON	TX	77081
+244	E*Trade	Financials	CHARLOTTE	NC	28273
+245	Eaton Corporation	Industrials	WESTPORT	CT	6880
+246	eBay Inc.	Information Technology	RANCHO CORDOVA	CA	95670
+247	Edwards Lifesciences	Health Care	ALTAMONTE SPRINGS	FL	32701
+248	Electronic Arts	Information Technology	MAHWAH	NJ	7430
+249	Emerson Electric Company	Industrials	JACKSON	MI	49202
+250	Envision Healthcare	Health Care	PITTSBURGH	PA	15261
+251	Equifax Inc.	Industrials	JERSEY CITY	NJ	7306
+252	Equinix	Real Estate	MEMPHIS	TN	38132
+253	Equity Residential	Real Estate	CHICAGO	IL	60661
+254	"Essex Property Trust, Inc."	Real Estate	SIOUX FALLS	SD	57108
+255	Estee Lauder Cos.	Consumer Staples	INDIANAPOLIS	IN	46239
+256	Everest Re Group Ltd.	Financials	EVANSVILLE	IN	47715
+257	Expedia Inc.	Consumer Discretionary	SMYRNA	GA	30080
+258	Expeditors International	Industrials	ROCKFORD	IL	61104
+259	Express Scripts	Health Care	LITTLE ROCK	AR	72204
+260	Extra Space Storage	Real Estate	TAMPA	FL	33609
+261	F5 Networks	Information Technology	WASHINGTON	DC	20202
+262	"Facebook, Inc."	Information Technology	PHILADELPHIA	PA	19107
+263	Fastenal Co	Industrials	CHANDLER	AZ	85225
+264	Federal Realty Investment Trust	Real Estate	FLINT	MI	48507
+265	FedEx Corporation	Industrials	SUNSET HILLS	MO	63127
+266	Fidelity National Information Services	Information Technology	PHARR	TX	78577
+267	Fifth Third Bancorp	Financials	CORPUS CHRISTI	TX	78414
+268	Fiserv Inc	Information Technology	SAN ANTONIO	TX	78221
+269	FLIR Systems	Information Technology	JUPITER	FL	33458
+270	Flowserve Corporation	Industrials	FORT COLLINS	CO	80525
+271	Fluor Corp.	Industrials	MIAMI	FL	33175
+272	Foot Locker Inc	Consumer Discretionary	HIALEAH	FL	33012
+273	Ford Motor	Consumer Discretionary	NORTH BRUNSWICK	NJ	8902
+274	Fortive Corp	Industrials	PITTSFIELD	MA	1201
+275	Fortune Brands Home & Security	Industrials	GREENWOOD VILLAGE	CO	80111
+276	Franklin Resources	Financials	MONROEVILLE	PA	15146
+277	Gap Inc.	Consumer Discretionary	WICHITA	KS	67207
+278	Garmin Ltd.	Consumer Discretionary	OKLAHOMA CITY	OK	73127
+279	Gartner Inc	Information Technology	LINDON	UT	84042
+280	General Dynamics	Industrials	LAS CRUCES	NM	88003
+281	General Electric	Industrials	HENDERSON	NV	89014
+282	General Growth Properties Inc.	Real Estate	MYRTLE BEACH	SC	29579
+283	General Mills	Consumer Staples	WILMINGTON	NC	28403
+284	General Motors	Consumer Discretionary	TULSA	OK	74146
+285	Genuine Parts	Consumer Discretionary	CAROLINA	PR	986
+286	Gilead Sciences	Health Care	OVERLAND PARK	KS	66212
+287	Global Payments Inc.	Information Technology	GLENDALE	AZ	85308
+288	Goldman Sachs Group	Financials	BATON ROUGE	LA	70816
+289	Goodyear Tire & Rubber	Consumer Discretionary	MARIETTA	GA	30067
+290	Grainger (W.W.) Inc.	Industrials	NEW YORK	NY	10010
+291	Hanesbrands Inc	Consumer Discretionary	MOORESTOWN	NJ	8057
+292	Harley-Davidson	Consumer Discretionary	PARAMUS	NJ	7652
+293	Harris Corporation	Information Technology	ONTARIO	CA	91764
+294	Hartford Financial Svc.Gp.	Financials	BLOOMINGTON	MN	55425
+295	Hasbro Inc.	Consumer Discretionary	CEDAR FALLS	IA	50613
+296	HCA Holdings	Health Care	ALBANY	NY	12205
+297	HCP Inc.	Real Estate	URBANDALE	IA	50323
+298	Henry Schein	Health Care	MASON CITY	IA	50401
+299	Hewlett Packard Enterprise	Information Technology	LAS VEGAS	NV	89123
+300	Hilton Worldwide Holdings Inc	Consumer Discretionary	FORT WAYNE	IN	46825
+301	Hologic	Health Care	HOLIDAY	FL	34690
+302	Home Depot	Consumer Discretionary	CLEBURNE	TX	76031
+303	Honeywell Int'l Inc.	Industrials	BAYAMON	PR	959
+304	Hormel Foods Corp.	Consumer Staples	WICHITA	KS	67226
+305	Host Hotels & Resorts	Real Estate	MORROW	GA	30260
+306	HP Inc.	Information Technology	HUNTSVILLE	AL	35801
+307	Humana Inc.	Health Care	JACKSON	MS	39206
+308	Huntington Bancshares	Financials	MORROW	GA	30260
+309	Huntington Ingalls Industries	Industrials	MEMPHIS	TN	38132
+310	IDEXX Laboratories	Health Care	TEMPE	AZ	85282
+311	IHS Markit Ltd.	Industrials	GAINESVILLE	GA	30501
+312	Illinois Tool Works	Industrials	SANTA ANA	CA	92705
+313	Illumina Inc	Health Care	N. CHARLESTON	SC	29406
+314	Incyte	Health Care	BEAUMONT	TX	77706
+315	Ingersoll-Rand PLC	Industrials	CHICAGO	IL	60601
+316	Intel Corp.	Information Technology	LAKEWOOD	CO	80214
+317	Intercontinental Exchange	Financials	ORLANDO	FL	32807
+318	International Business Machines	Information Technology	MIAMI	FL	33135
+319	Interpublic Group	Consumer Discretionary	BRIDGEPORT	WV	26330
+320	Intuit Inc.	Information Technology	VANCOUVER	WA	98684
+321	Intuitive Surgical Inc.	Health Care	TULSA	OK	74146
+322	Invesco Ltd.	Financials	BAYAMON	PR	959
+323	IPG Photonics Corp.	Information Technology	MOBILE	AL	36608
+324	IQVIA Holdings Inc.	Health Care	AUSTIN	TX	78723
+325	Iron Mountain Incorporated	Real Estate	LAREDO	TX	78041
+326	J. B. Hunt Transport Services	Industrials	CASS CITY	MI	48726
+327	Jacobs Engineering Group	Industrials	EUGENE	OR	97403
+328	JM Smucker	Consumer Staples	PHOENIX	AZ	85051
+329	Johnson & Johnson	Health Care	KING OF PRUSSIA	PA	19406
+330	Johnson Controls International	Industrials	CHATTANOOGA	TN	37421
+331	JPMorgan Chase & Co.	Financials	DAYTON	OH	45459
+332	Juniper Networks	Information Technology	CORPUS CHRISTI	TX	78416
+333	Kansas City Southern	Industrials	BROWNSVILLE	TX	78521
+334	Kellogg Co.	Consumer Staples	ALLEN PARK	MI	48101
+335	KeyCorp	Financials	BROADVIEW HEIGHTS	OH	44147
+336	Kimberly-Clark	Consumer Staples	MCALLEN	TX	78503
+337	Kimco Realty	Real Estate	HOUSTON	TX	77060
+338	KLA-Tencor Corp.	Information Technology	NASHVILLE	TN	37232
+339	Kohl's Corp.	Consumer Discretionary	COLUMBUS	IN	47203
+340	Kraft Heinz Co	Consumer Staples	BRADENTON	FL	34211
+341	Kroger Co.	Consumer Staples	COLORADO SPRINGS	CO	80907
+342	L Brands Inc.	Consumer Discretionary	GROTON	CT	6340
+343	L-3 Communications Holdings	Industrials	HOUSTON	TX	77042
+344	Laboratory Corp. of America Holding	Health Care	ST. JOSEPH	MO	64501
+345	Lam Research	Information Technology	PLYMOUTH	MN	55446
+346	Leggett & Platt	Consumer Discretionary	LUBBOCK	TX	79401
+347	Lennar Corp.	Consumer Discretionary	TAMPA	FL	33619
+348	Leucadia National Corp.	Financials	DOVER	DE	19901
+349	Lilly (Eli) & Co.	Health Care	BROCKTON	MA	2401
+350	Lincoln National	Financials	MARIETTA	GA	30067
+351	LKQ Corporation	Consumer Discretionary	LOWELL	MA	1852
+352	Lockheed Martin Corp.	Industrials	PHILADELPHIA	PA	19104
+353	Loews Corp.	Financials	PHILADELPHIA	PA	19116
+354	Lowe's Cos.	Consumer Discretionary	RICHMOND	VA	23230
+355	M&T Bank Corp.	Financials	FORT WORTH	TX	76103
+356	Macerich	Real Estate	WATERBURY	CT	6705
+357	Macy's Inc.	Consumer Discretionary	KANSAS CITY	MO	64132
+358	Marriott Int'l.	Consumer Discretionary	DELAWARE	OH	43015
+359	Marsh & McLennan	Financials	TROY	MI	48083
+360	Masco Corp.	Industrials	ORLANDO	FL	32809
+361	Mastercard Inc.	Information Technology	ORLANDO	FL	32819
+362	Mattel Inc.	Consumer Discretionary	HENDERSON	NV	89074
+363	McCormick & Co.	Consumer Staples	LAS VEGAS	NV	89144
+364	McDonald's Corp.	Consumer Discretionary	TUCKER	GA	30084
+365	McKesson Corp.	Health Care	HARTFORD	CT	6120
+366	Medtronic plc	Health Care	FT. LAUDERDALE	FL	33309
+367	Merck & Co.	Health Care	HOUSTON	TX	77042
+368	MetLife Inc.	Financials	GARDEN CITY	NY	11530
+369	Mettler Toledo	Health Care	ISELIN	NJ	8830
+370	MGM Resorts International	Consumer Discretionary	TRAVERSE CITY	MI	49686
+371	Michael Kors Holdings	Consumer Discretionary	WESTMINSTER	CO	80031
+372	Microchip Technology	Information Technology	AURORA	CO	80012
+373	Micron Technology	Information Technology	FAJARDO	PR	738
+374	Microsoft Corp.	Information Technology	O'FALLON	MO	63366
+375	Mid-America Apartments	Real Estate	ST. LOUIS	MO	63124
+376	Mohawk Industries	Consumer Discretionary	HOUSTON	TX	77067
+377	Molson Coors Brewing Company	Consumer Staples	CARY	NC	27511
+378	Mondelez International	Consumer Staples	GROVE	OK	74345
+379	Monster Beverage	Consumer Staples	PALM SPRINGS	CA	92262
+380	Moody's Corp	Financials	LEWISTON	ME	4240
+381	Morgan Stanley	Financials	BAKERSFIELD	CA	93304
+382	Motorola Solutions Inc.	Information Technology	BROOKLYN PARK	MN	55445
+383	Mylan N.V.	Health Care	FRIENDSWOOD	TX	77546
+384	"Nasdaq, Inc."	Financials	CLOVIS	CA	93612
+385	Navient	Financials	RALEIGH	NC	27606
+386	Nektar Therapeutics	Health Care	SLIDELL	LA	70460
+387	NetApp	Information Technology	LAFAYETTE	LA	70508
+388	Netflix Inc.	Information Technology	INDIANAPOLIS	IN	46278
+389	Newell Brands	Consumer Discretionary	TULSA	OK	74135
+390	News Corp. Class A	Consumer Discretionary	GOODLETTSVILLE	TN	37072
+391	News Corp. Class B	Consumer Discretionary	MIAMI	FL	33122
+392	Nielsen Holdings	Industrials	BILOXI	MS	39532
+393	Nike	Consumer Discretionary	INDIANAPOLIS	IN	46268
+394	Nordstrom	Consumer Discretionary	JUANA DIAZ	PR	795
+395	Norfolk Southern Corp.	Industrials	BARTLESVILLE	OK	74003
+396	Northern Trust Corp.	Financials	NAPERVILLE	IL	60563
+397	Northrop Grumman Corp.	Industrials	ROCKFORD	IL	61108
+398	Norwegian Cruise Line	Consumer Discretionary	JACKSON	MS	39232
+399	Nvidia Corporation	Information Technology	HATTIESBURG	MS	39401
+400	O'Reilly Automotive	Consumer Discretionary	GREEN BAY	WI	54304
+401	Omnicom Group	Consumer Discretionary	JOHNSON CITY	TN	37614
+402	Oracle Corp.	Information Technology	WHITESTONE	NY	11357
+403	PACCAR Inc.	Industrials	SEATTLE	WA	98188
+404	Parker-Hannifin	Industrials	SAN ANTONIO	TX	78229
+405	Paychex Inc.	Information Technology	CHATTANOOGA	TN	37411
+406	PayPal	Information Technology	LAKE ELMO	MN	55042
+407	Pentair Ltd.	Industrials	LAS VEGAS	NV	89117
+408	People's United Financial	Financials	HENDERSON	NV	89052
+409	PepsiCo Inc.	Consumer Staples	ROGERS	AR	72756
+410	PerkinElmer	Health Care	RIVERSIDE	CA	92507
+411	Perrigo	Health Care	ELKHART	IN	46516
+412	Pfizer Inc.	Health Care	GREEN BAY	WI	54303
+413	Philip Morris International	Consumer Staples	HIALEAH	FL	33012
+414	PNC Financial Services	Financials	OKLAHOMA CITY	OK	73107
+415	Polo Ralph Lauren Corp.	Consumer Discretionary	RICHARDSON	TX	75081
+416	Principal Financial Group	Financials	BROWNSVILLE	TX	78520
+417	Procter & Gamble	Consumer Staples	MCALLEN	TX	78501
+418	Progressive Corp.	Financials	MARGATE	FL	33068
+419	Prologis	Real Estate	EVERETT	WA	98208
+420	Prudential Financial	Financials	TACOMA	WA	98402
+421	Public Storage	Real Estate	NORCROSS	GA	30093
+422	Pulte Homes Inc.	Consumer Discretionary	CHESAPEAKE	VA	23320
+423	PVH Corp.	Consumer Discretionary	DALLAS	TX	75206
+424	Qorvo	Information Technology	HOUSTON	TX	77036
+425	QUALCOMM Inc.	Information Technology	TIGARD	OR	97223
+426	Quanta Services Inc.	Industrials	BLAIRSVILLE	PA	15717
+427	Quest Diagnostics	Health Care	ARLINGTON	TX	76011
+428	Raymond James Financial Inc.	Financials	HOUSTON	TX	77060
+429	Raytheon Co.	Industrials	HOUSTON	TX	77087
+430	Realty Income Corporation	Real Estate	DEARBORN	MI	48124
+431	Red Hat Inc.	Information Technology	AUSTIN	TX	78754
+432	Regency Centers Corporation	Real Estate	DETROIT	MI	48207
+433	Regeneron	Health Care	SOUTH PLAINFIELD	NJ	7080
+434	Regions Financial Corp.	Financials	ORLANDO	FL	32819
+435	Republic Services Inc	Industrials	MELBOURNE	FL	32905
+436	ResMed	Health Care	ORANGE PARK	FL	32073
+437	Robert Half International	Industrials	LAKELAND	FL	33801
+438	Rockwell Automation Inc.	Industrials	JACKSONVILLE	FL	32256
+439	Rockwell Collins	Industrials	LAKELAND	FL	33813
+440	Roper Technologies	Industrials	GAHANNA	OH	43230
+441	Ross Stores	Consumer Discretionary	DRAPER	UT	84020
+442	Royal Caribbean Cruises Ltd	Consumer Discretionary	DELAND	FL	32720
+443	"S&P Global, Inc."	Financials	SAN ANTONIO	TX	78230
+444	Salesforce.com	Information Technology	KANSAS CITY	MO	64131
+445	SBA Communications	Real Estate	WICHITA	KS	67210
+446	Seagate Technology	Information Technology	WILLIMANTIC	CT	6226
+447	Simon Property Group Inc	Real Estate	MOORHEAD	MN	56560
+448	Skyworks Solutions	Information Technology	GREENWOOD	IN	46143
+449	SL Green Realty	Real Estate	INDIANAPOLIS	IN	46204
+450	Snap-On Inc.	Consumer Discretionary	PALM SPRINGS	FL	33461
+451	Southwest Airlines	Industrials	NASHVILLE	TN	37211
+452	Stanley Black & Decker	Consumer Discretionary	ALBUQUERQUE	NM	87109
+453	Starbucks Corp.	Consumer Discretionary	TALLAHASSEE	FL	32304
+454	State Street Corp.	Financials	GARLAND	TX	75041
+455	Stericycle Inc	Industrials	FARMINGTON HILLS	MI	48334
+456	Stryker Corp.	Health Care	DETROIT	MI	48208
+457	SunTrust Banks	Financials	HANNIBAL	MO	63401
+458	SVB Financial	Financials	MONTGOMERY	AL	36117
+459	Symantec Corp.	Information Technology	MANATI	PR	701
+460	Synchrony Financial	Financials	FORT WAYNE	IN	46805
+461	Synopsys Inc.	Information Technology	AKRON	OH	44320
+462	Sysco Corp.	Consumer Staples	BETTENDORF	IA	52722
+463	T. Rowe Price Group	Financials	HOPKINSVILLE	KY	42240
+464	Take-Two Interactive	Information Technology	SAGINAW	MI	48603
+465	"Tapestry, Inc."	Consumer Discretionary	PORT HURON	MI	48060
+466	Target Corp.	Consumer Discretionary	ROOSEVELT PARK	MI	49441
+467	TE Connectivity Ltd.	Information Technology	ANN ARBOR	MI	48108
+468	Texas Instruments	Information Technology	GRAND RAPIDS	MI	49546
+469	Textron Inc.	Industrials	REDFORD	MI	48239
+470	The Bank of New York Mellon Corp.	Financials	MIRAMAR	FL	33025
+471	The Clorox Company	Consumer Staples	CAMBRIDGE	MA	2142
+472	The Cooper Companies	Health Care	CLIFTON	NJ	7011
+473	The Hershey Company	Consumer Staples	FORT MYERS	FL	33905
+474	The Travelers Companies Inc.	Financials	SOUTHFIELD	MI	48075
+475	The Walt Disney Company	Consumer Discretionary	KANSAS CITY	MO	64153
+476	Thermo Fisher Scientific	Health Care	FORT WAYNE	IN	46804
+477	Tiffany & Co.	Consumer Discretionary	GREENVILLE	SC	29607
+478	Time Warner Inc.	Consumer Discretionary	AURORA	IL	60506
+479	TJX Companies Inc.	Consumer Discretionary	RALEIGH	NC	27604
+480	Torchmark Corp.	Financials	BOISE	ID	83709
+481	Total System Services	Information Technology	TULSA	OK	74146
+482	Tractor Supply Company	Consumer Discretionary	AUSTIN	TX	78704
+483	TransDigm Group	Industrials	HOUSTON	TX	77042
+484	TripAdvisor	Consumer Discretionary	GRAND PRAIRIE	TX	75050
+485	Twenty-First Century Fox Class A	Consumer Discretionary	ROSEVILLE	MI	48066
+486	Twenty-First Century Fox Class B	Consumer Discretionary	LAS CRUCES	NM	88011
+487	Tyson Foods	Consumer Staples	AMARILLO	TX	79101
+488	U.S. Bancorp	Financials	EGG HARBOR	NJ	8234
+489	UDR Inc	Real Estate	PHILADELPHIA	PA	19114
+490	Ulta Beauty	Consumer Discretionary	NEWARK	NJ	7102
+491	Under Armour Class A	Consumer Discretionary	LAKEWOOD	NJ	8701
+492	Under Armour Class C	Consumer Discretionary	COLUMBUS	OH	43213
+493	Union Pacific	Industrials	EAST HARTFORD	CT	6118
+494	United Continental Holdings	Industrials	LEWISTON	ID	83501
+495	United Health Group Inc.	Health Care	INDIANAPOLIS	IN	46227
+496	United Parcel Service	Industrials	DALLAS	TX	75247
+497	"United Rentals, Inc."	Industrials	MEMPHIS	TN	38133
+498	United Technologies	Industrials	PORT CHARLOTTE	FL	33953
+499	"Universal Health Services, Inc."	Health Care	LUBBOCK	TX	79414
+500	Unum Group	Financials	ROMEOVILLE	IL	60446
+501	V.F. Corp.	Consumer Discretionary	ESTERO	FL	33928
+502	Varian Medical Systems	Health Care	CORPUS CHRISTI	TX	78416
+503	Ventas Inc	Real Estate	ROGERS	AR	72756
+504	Verisign Inc.	Information Technology	MESA	AZ	85204
+505	Verisk Analytics	Industrials	TUCSON	AZ	85711
+506	Verizon Communications	Telecommunication Services	ALBUQUERQUE	NM	87105
+507	Vertex Pharmaceuticals Inc	Health Care	GROVE CITY	OH	43123
+508	Viacom Inc.	Consumer Discretionary	JACKSONVILLE	FL	32207
+509	Visa Inc.	Information Technology	POUGHKEEPSIE	NY	12601
+510	Vornado Realty Trust	Real Estate	WASHINGTON	DC	20057
+511	Wal-Mart Stores	Consumer Staples	TOPEKA	KS	66609
+512	Walgreens Boots Alliance	Consumer Staples	JOPLIN	MO	64801
+513	Waste Management Inc.	Industrials	TULSA	OK	74112
+514	Waters Corporation	Health Care	WICHITA	KS	67208
+515	Wells Fargo	Financials	BROWNSVILLE	TX	78520
+516	Welltower Inc.	Real Estate	HARLINGEN	TX	78550
+517	Western Digital	Information Technology	GREENVILLE	NC	27834
+518	Western Union Co	Information Technology	GREENVILLE	SC	29615
+519	Weyerhaeuser Corp.	Real Estate	MANASSAS	VA	20109
+520	Whirlpool Corp.	Consumer Discretionary	NORTH CHARLESTON	SC	29420
+521	Willis Towers Watson	Financials	RALEIGH	NC	27613
+522	Wyndham Worldwide	Consumer Discretionary	COLUMBIA	SC	29210
+523	Wynn Resorts Ltd	Consumer Discretionary	CHARLOTTE	NC	28262
+524	Xerox Corp.	Information Technology	NORFOLK	VA	23513
+525	Xilinx Inc	Information Technology	VIRGINIA BEACH	VA	23462
+526	XL Capital	Financials	RICHMOND	VA	23236
+527	Xylem Inc.	Industrials	GLEN ALLEN	VA	23060
+528	Yum! Brands Inc	Consumer Discretionary	RICHMOND	VA	23294
+529	Zimmer Biomet Holdings	Health Care	INDIANA	PA	15701
+530	Zions Bancorp	Financials	VENTURA	CA	93001
+531	Zoetis	Health Care	CORDOVA	TN	38016

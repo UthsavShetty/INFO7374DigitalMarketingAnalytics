@@ -1,0 +1,217 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript">
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "https://public.tableau.com/views/AlyceFinalProject/CAC",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    <script type="text/javascript">
+        function initViz1() {
+            var containerDiv = document.getElementById("vizContainer1"),
+                url = "https://public.tableau.com/views/AlyceLTV/LTV",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    <script type="text/javascript">
+        function initViz2() {
+            var containerDiv = document.getElementById("vizContainer2"),
+                url = "https://public.tableau.com/views/AlyceForecast/ForecastSales",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    <script type="text/javascript">
+        function initViz3() {
+            var containerDiv = document.getElementById("vizContainer3"),
+                url = "https://public.tableau.com/views/AlyceGeography/Geography",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    <script type="text/javascript">
+        function initViz4() {
+            var containerDiv = document.getElementById("vizContainer4"),
+                url = "https://public.tableau.com/views/AlyceGift/GiftData",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    <script type="text/javascript">
+        function initViz5() {
+            var containerDiv = document.getElementById("vizContainer5"),
+                url = "https://public.tableau.com/views/Marketingchannel/MarketinChannel",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+    <script type="text/javascript">
+        function initViz6() {
+            var containerDiv = document.getElementById("vizContainer6"),
+                url = "https://public.tableau.com/views/SalesGrowth_15659835855210/SalesGrowth",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+</head>
+
+<body onload="initViz();initViz1();initViz2();initViz3();initViz4();initViz5();initViz6();">
+<center><h1 style="font-family: Sans-serif ;padding-left:20px;color:#4d4d4d;">Alyce Marketing Dashboard</h1></center>
+<center><a href="http://ec2-54-227-146-222.compute-1.amazonaws.com:8050"><h2 style="font-family: Sans-serif ;padding-left:20px;color:#4d4d4d;">(Python-Dash Dashboard)>></h2></a></center>
+    <div style="width:2000px; height:500px;margin-top:50px;">
+        <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+            <li>
+            Marketing Mix Modelling confined the method of statistical analysis such as regression on sales and marketing data to estimate the impact of various marketing tactics on sales and then predict the impact of future sets of tactics. It is also used to optimize the advertising mix with respect to sales revenue or profit. Today, most brands and companies have embraced and are embracing these advanced measurement methodologies to determine the true impact of all interactions across all devices, channels, and campaign tactics. With the implementation of Tableau on Alyce data, stock traders or marketing team can derive meaningful insights from past data and can take appropriate business decisions for future outcomes.
+            </li>
+        </ul>
+    </div>
+    <div style="width:1250px; height:500px;margin-top: -350px;">
+    <div id="vizContainer5" style="width:500px; height:500px;margin-left: 875px;"></div>
+    <h2 style="font-family: Sans-serif ;padding-left:20px;color:#4d4d4d;margin-top: -480px;">Customer Acquisition Source</h2>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Having a solid customer acquisition strategy is an essential component for any business.</li>
+        <li>Without it, you're going to seriously struggle to grow your business in any kind of meaningful way.</li>
+        <li>Acquiring new customers involves persuading consumers to purchase a company's products and/or services.</li>
+    </ul>
+    <br>
+    <img src="Customer-Acquisition.jpg" alt="formula" style="width:550px;height:250px;padding-left:20px;">
+    </div>
+    <br>
+    <br>
+    <div style="width:1250px; height:500px;" >
+    <h2 style="font-family: Sans-serif ;padding-left:20px;color:#4d4d4d;">Customer Acquisition Cost</h2>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Customers are what make businesses run.</li>
+        <li>Customer
+            acquisition cost
+            (CAC) is a metric that has been growing in use, <br>along with the emergence of Internet companies and
+            web-based
+            advertising campaigns that can be tracked.</li>
+        <li>Your CAC is not just what you spend on advertising! There are many
+            hidden costs that go into customer acquisition, which may include:</li>
+        <li style="padding-left:50px;list-style: none;"><b>Discounts and promotions</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Publicity costs (including PR)</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Events and conferences</b></li>
+    </ul>
+    </div>
+    <div id="vizContainer" style="width:500px; height:500px;margin-left: 875px;margin-top: -480px;"></div>
+    <br>
+    <div style="width:1250px; height:500px;" >
+    <h2 style="font-family: Sans-serif ;padding-left:20px;margin-top:-220px;color:#4d4d4d;">How You Can Measure CAC</h2>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Basically, the CAC can be calculated by simply dividing all the costs spent on acquiring more customers
+            (marketing expenses) by the number of customers acquired in the period the money was spent. For example, if
+            a company spent $100 on marketing in a year and acquired 100 customers in the same year, their CAC is $1.00.
+        </li>
+        <br>
+        <li>You need to know your CAC so that you understand if the customer lifetime value (LTV) is more than you pay
+            to acquire the customer.</li>
+    </ul>
+    <h2 style="font-family: Sans-serif ;padding-left:20px;color:#4d4d4d;">How You Can Measure LTV or CLV</h2>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Customer Lifetime Value (LTV) represents the average revenue that a customer generates before they churn,
+            offset
+            by gross margin.</li>
+        <li>How is LTV useful?</li>
+        <li style="padding-left:50px;list-style: none;"><b>Balancing customer acquisition spend</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Determining payback period</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Investor reports</b></li>
+    </ul>
+    <br>
+    <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;">Customer Lifetime Value Prediction</h1>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Here we use lifetimes (pip install Lifetimes==0.2.2.2) python package for our LTV analysis.</li>
+        <li>Lifetimes can be used to analyze your users based on a few assumptions:</li>
+        <li style="padding-left:50px;list-style: none;"><b>Users interact with you when they are "alive".</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Users under study may "die" after some period of time</b></li>
+        <li>We use <b>summary_data_from_transaction_data</b> function from Lifetimes</li>
+        <li>With transactional data, we can partition the dataset into a calibration period dataset and a holdout dataset. This is important as we want to test how our model performs on data not yet seen (think cross-validation in standard machine learning literature).</li>
+        <li>With the analysis we can estimate the customer lifetime value using the <b>Gamma-Gamma model</b>.</li>
+        <li>We then train our Gamma-Gamma submodel and predict the conditional, expected average lifetime value of our customers.</li>
+        <li>With this we can also predict the expected average profit per customer.</li>
+    </ul>
+    </div>
+    <div id="vizContainer1" style="width:500px; height:500px;margin-left: 875px;margin-top: -80px;"></div>
+    <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;margin-top:150px;">Alyce Sales Forecast</h1>
+        <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;width:1250px;">
+            <li>Show the sales that happened in previous quarters and also see sales forecast for upcoming quarters which gives an idea to the analyst whether they're going to do better or need some changes in their strategy.</li>
+        </ul>        
+    <div id="vizContainer2" style="width:1000px; height:500px;margin-left: 55px;margin-top: 50px;"></div>
+    <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;margin-top:50px;">Alyce Sales Monthly</h1>
+    <div id="vizContainer6" style="width:1000px; height:500px;margin-left: 55px;margin-top: 50px;"></div>
+    <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;margin-top:90px;">Alyce Revenue across States</h1>
+        <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;width:1250px;">
+            <li>Revenue based on geography helping to concentrate on regions which has performed low or penetrate into a market which has not been targeted yet.</li>
+        </ul>
+    <div id="vizContainer3" style="width:1000px; height:500px;margin-left: 55px;margin-top: 50px;"></div>
+    <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;margin-top:90px;">Alyce Revenue per Gift</h1>
+        <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;width:1250px;">
+            <li>Revenue per gift helps to infer on which gift has the most demand.</li>
+        </ul>
+    <div id="vizContainer4" style="width:1000px; height:500px;margin-left: 55px;"></div>
+    <br>
+    <br>
+    <a href="/graph.html">
+        <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;"></h2>
+    </a>
+    <a href="/index.html">
+        <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;"></h2>
+    </a>
+</body>
+
+</html>

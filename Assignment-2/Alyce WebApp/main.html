@@ -1,0 +1,82 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <script>
+        window.onload = function () {
+
+            var chart = new CanvasJS.Chart("chartContainer", {
+                animationEnabled: true,
+                theme: "light2", // "light1", "light2", "dark1", "dark2"
+                title: {
+                    text: "LTV and CAC ratio"
+                },
+                axisY: {
+                    title: "Revenue(dollars)"
+                },
+                data: [{
+                    type: "column",
+                    dataPoints: [
+                        { y: 103000.8, label: "LTV" },
+                        { y: 23752.9, label: "CAC" }
+                    ]
+                }]
+            });
+            chart.render();
+
+        }
+    </script>
+</head>
+
+<body>
+    <h1 style="font-family: Sans-serif ;padding-left:20px;color:#4d4d4d;">Customer Acquisition Cost</h1>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Customers are what make businesses run.</li>
+        <li>Customer
+            acquisition cost
+            (CAC) is a metric that has been growing in use, along with the emergence of Internet companies and
+            web-based
+            advertising campaigns that can be tracked.</li>
+        <li>Your CAC is not just what you spend on advertising! There are many
+            hidden costs that go into customer acquisition, which may include:</li>
+        <li style="padding-left:50px;list-style: none;"><b>Discounts and promotions</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Publicity costs (including PR)</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Events and conferences</b></li>
+    </ul>
+    <div id="chartContainer" style="height: 500px; width: 20%; margin-left:1000px;margin-top:-280px;"></div>
+    <h2 style="font-family: Sans-serif ;padding-left:20px;margin-top:-220px;color:#4d4d4d;">How You Can Measure CAC</h2>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Basically, the CAC can be calculated by simply dividing all the costs spent on acquiring more customers
+            (marketing expenses) by the number of customers acquired in the period the money was spent. For example, if
+            a company spent $100 on marketing in a year and acquired 100 customers in the same year, their CAC is $1.00.
+        </li>
+        <br>
+        <li>You need to know your CAC so that you understand if the customer lifetime value (LTV) is more than you pay
+            to acquire the customer.</li>
+    </ul>
+    <h2 style="font-family: Sans-serif ;padding-left:20px;color:#4d4d4d;">How You Can Measure LTV or CLV</h2>
+    <ul style="font-family: Sans-serif;padding-right:600px;font-size: 20px;padding-left:20px;color:#4d4d4d;">
+        <li>Customer Lifetime Value (LTV) represents the average revenue that a customer generates before they churn,
+            offset
+            by gross margin.</li>
+        <li>How is LTV useful?</li>
+        <li style="padding-left:50px;list-style: none;"><b>Balancing customer acquisition spend</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Determining payback period</b></li>
+        <li style="padding-left:50px;list-style: none;"><b>Investor reports</b></li>
+    </ul>
+    <img src="cac-and-ltv.jpg" alt="CAC and LTV" style="width:400px;height:200px;margin-left:1000px;margin-top:-340px;">
+    <img src="formula.png" alt="formula" style="width:550px;height:50px;margin-top: -30px">
+    <br>
+    <br>
+    <h1 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;">Analysis</h1>
+    <a href="/graph.html">
+        <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;">Customer Analysis Dashboard</h2>
+    </a>
+    <a href="/index.html">
+        <h2 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;">Margin Metrics Dashboard</h2>
+    </a>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+
+
+</html>

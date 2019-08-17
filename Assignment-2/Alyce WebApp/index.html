@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript">
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "https://public.tableau.com/views/AlyceMetrics/AlyceSales",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            // Create a viz object and embed it in the container div.
+            var viz = new tableau.Viz(containerDiv, url, options);
+        }
+    </script>
+</head>
+
+<body onload="initViz();">
+    <h1 style="font-family: Sans-serif;padding-left:20px;color:#4d4d4d;">Margin Metrics Dashboard</h1>
+    <ul style="font-family: Sans-serif;font-size: 20px;color:#4d4d4d;">
+        <li>With the implementation of this dashboard, we show the margin metrics, happy customer metrics and customer
+            acquisition cost metrics of Alyce Database.</li><br>
+        <li>This contains overall sales analysis of Alyce client’s across months
+            by considering net margin & gross margin.</li><br>
+        <li>The most important metrics to track about the business are margins.
+            Margins measure profitability and are calculated by comparing profits to the revenue. Typically, Margins are
+            measured as a percent of revenue and is represented in dashboards to judge the profitability of the
+            business.</li><br>
+        <li>We
+            can show total clients and their contributions in our revenue by displaying geographical map spread across
+            United States.</li><br>
+
+        <li>The CAC metric is important to two parties: companies and investors. The first party includes outside, early
+            stage investors who use it to analyze the scalability of new Internet technology companies. They can
+            determine a
+            company’s profitability by looking at the difference between how much money can be extracted from customers
+            and
+            the costs of extracting it.</li><br>
+        <li>This metric is shown in the dashboard along with the sales revenue to determine
+            Alyce’s profitability. Customer lifetime value (or life-time value (LTV), is the average amount of money
+            your
+            customers will spend on your business over the entire life of your relationship.</li><br>
+        <li> The customer lifetime value
+            is
+            shown in the historical approach by the total value of each transaction multiplied by Alyce average gross
+            margin..</li><br>
+    </ul>
+    <div id="vizContainer" style="width:10000px; height:700px;margin-left: 225px"></div>
+</body>
+
+</html>
