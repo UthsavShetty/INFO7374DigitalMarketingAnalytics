@@ -1,5 +1,9 @@
 Alyce Marketing Analytics Project
 
+WebApp link : https://focused-wiles-5a4b67.netlify.com/
+
+Dash Link : http://ec2-54-227-146-222.compute-1.amazonaws.com:8050/
+
 Build a Market Mix Model for Alyce. They have a detailed data available about their marketing spent for a couple of years which includes spending on commercials, online campaigns, and pricing and promotion strategies. In order to make marketing budget for the next year need to develop a market mix model to observe the actual impact of different marketing variables over the last year and based on the understanding of the model will have to recommend the optimal budget allocation for different marketing levers.
 
 Market Mix Modeling (MMM) is a technique which helps in quantifying the impact of several marketing inputs on sales or Market Share. The purpose of using MMM is to understand how much each marketing input contributes to sales, and how much to spend on each marketing input.MMM helps in ascertaining the effectiveness of each marketing input in terms of Return on Investment.
